@@ -1,7 +1,7 @@
 # fix-skype-icon
 Shell script to fix the Skype icon in Ubuntu
 
-Skype doesn't have monochromatic tray icon by default, which doesn't look nice on Ubuntu (especially Gnome or Xfce WM). This script solves mentioned problem.
+Skype doesn't have monochromatic tray icon by default, which doesn't look nice on Ubuntu (especially on Gnome or Xfce WM). This script solves mentioned problem.
 
 ![Skype old icon](https://raw.githubusercontent.com/pwittchen/fix-skype-icon/master/images/skype-old-icon.png)
 
