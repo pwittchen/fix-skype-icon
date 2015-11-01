@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -e
+set -e # tells bash, in a script, to exit whenever anything returns a non-zero return value
 
 msg() {
     tput setab 2 # green bg
@@ -31,4 +31,4 @@ main() {
   msg "Quit Skype (if running) and start it again"
 }
 
-main "$@"
+main "$@" # "$@" is an array-like construct of all positional parameters, {$1, $2, $3 ...}.
