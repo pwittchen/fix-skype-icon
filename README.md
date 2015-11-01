@@ -7,7 +7,7 @@ Skype doesn't have monochromatic tray icon by default, which doesn't look nice o
 
 ![Skype fixed icon](https://raw.githubusercontent.com/pwittchen/fix-skype-icon/master/images/skype-fixed-icon.png)
 
-Project inspired by [fix-spotify-icon](https://github.com/faviouz/fix-spotify-icon), which automatically does task described at http://askubuntu.com/questions/503267/change-skype-tray-icon/549964#549964.
+Project was inspired by [fix-spotify-icon](https://github.com/faviouz/fix-spotify-icon). It automatically does task described at http://askubuntu.com/questions/503267/change-skype-tray-icon/549964#549964.
 
 ## Usage
 
