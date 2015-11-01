@@ -31,4 +31,4 @@ main() {
   msg "Quit Skype (if running) and start it again"
 }
 
-main "$@" # "$@" is an array-like construct of all positional parameters, {$1, $2, $3 ...}.
+main "$@" # "$@" is an array-like construct of all positional parameters, {$1, $2, $3 ...}
