@@ -11,8 +11,14 @@ Project inspired by [fix-spotify-icon](https://github.com/faviouz/fix-spotify-ic
 
 ## Usage
 
-Just run:
+To fix icon, just run:
 
 ```
 curl https://raw.githubusercontent.com/pwittchen/fix-skype-icon/master/fix-skype-icon.sh | sh
+```
+
+To restore old Skype icon, run:
+
+```
+curl https://raw.githubusercontent.com/pwittchen/fix-skype-icon/master/restore-old-skype-icon.sh | sh
 ```
